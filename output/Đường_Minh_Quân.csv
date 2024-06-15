@@ -1,0 +1,13 @@
+date,student_code,student_name,activity,totalFile
+2024-06-10,11,Đường Minh Quân,write,5
+2024-06-10,11,Đường Minh Quân,execute,4
+2024-06-11,11,Đường Minh Quân,execute,5
+2024-06-11,11,Đường Minh Quân,write,7
+2024-06-12,11,Đường Minh Quân,read,8
+2024-06-13,11,Đường Minh Quân,execute,17
+2024-06-13,11,Đường Minh Quân,write,4
+2024-06-13,11,Đường Minh Quân,read,10
+2024-06-14,11,Đường Minh Quân,write,5
+2024-06-14,11,Đường Minh Quân,execute,6
+2024-06-15,11,Đường Minh Quân,write,7
+2024-06-15,11,Đường Minh Quân,execute,1
